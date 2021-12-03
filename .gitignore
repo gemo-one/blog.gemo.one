@@ -1,3 +1,6 @@
 .hugo_build.lock
 public/
 resources/
+# 草稿
+**/**/*.d.md
+**/**/*.d.org
