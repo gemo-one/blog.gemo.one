@@ -1,0 +1,6 @@
+# Base Config
+baseURL = 'https://blog.gemo.one'
+languageCode = 'zh-CN'
+title = "Gemo's Blog"
+[permalinks]
+posts = '/:year/:month/:title/'
