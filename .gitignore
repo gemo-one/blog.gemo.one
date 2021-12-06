@@ -1,6 +1,11 @@
 .hugo_build.lock
 public/
 resources/
+**/**/*.bak
 # 草稿
+**/**/*.local
 **/**/*.d.md
 **/**/*.d.org
+# vnote
+**/**/vx*
+
